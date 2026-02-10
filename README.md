@@ -1,4 +1,4 @@
-📁 Project Files
+# 📁 Project Files
 
 traffic_counter.py
 
@@ -6,7 +6,7 @@ parking_space_marker.py
 
 parking_space_checker.py
 
-1️⃣ traffic_counter.py
+# 1️⃣ traffic_counter.py
 
 Counts vehicles in a traffic video using background subtraction and contour detection.
 
