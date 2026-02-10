@@ -23,7 +23,7 @@ Displays total vehicle count on screen
 Usage
 python traffic_counter.py
 
-2️⃣ parking_space_marker.py
+# 2️⃣ parking_space_marker.py
 
 Used to manually select and save parking space locations on an image.
 
@@ -40,7 +40,7 @@ Saves selected positions into a file
 Usage
 python parking_space_marker.py
 
-3️⃣ parking_space_checker.py
+# 3️⃣ parking_space_checker.py
 
 Checks whether parking spaces are occupied or free using image processing.
 
@@ -54,14 +54,14 @@ Applies thresholding and filtering
 
 Marks:
 
-🟢 Green → Free space
+# 🟢 Green → Free space
 
-🔴 Red → Occupied space
+# 🔴 Red → Occupied space
 
 Usage
 python parking_space_checker.py
 
-🛠 Requirements
+# 🛠 Requirements
 
 Python 3.x
 
@@ -73,7 +73,7 @@ Install dependencies:
 
 pip install opencv-python numpy
 
-📷 Input Files
+# 📷 Input Files
 
 traffic.mp4 → Traffic video
 
@@ -81,7 +81,7 @@ your.jpg → Parking lot image
 
 points.pkl → Parking slot positions (auto-generated)
 
-🎯 Purpose
+# 🎯 Purpose
 
 This project demonstrates:
 
